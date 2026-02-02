@@ -1,4 +1,4 @@
-# Krall-_kurtarma_oyunu
+# Krallık_kurtarma_oyunu
 kullanıcı seçimler yaparak krallığı kurtarır
 
 Başta bir intro size oyunun hikayesini anlatır
